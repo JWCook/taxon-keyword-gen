@@ -68,8 +68,11 @@ taxonomy:kingdom=Animalia
                           "taxonomy:common=Common Fruit Fly"
 ```
 
-## TODO
+## See Also
+For working with metadata for _individual_ taxa or observations, see the related tool
+[`inat-image-tagger`](https://github.com/JWCook/inat-image-tagger).
 
+## TODO
 If this actually turns out to be useful, there is lots of room for building on top of this basic
 PoC, for example:
 * Conveniences to make it easier to import generated keywords into popular photo/metadata editing
