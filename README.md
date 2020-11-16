@@ -70,10 +70,10 @@ taxonomy:kingdom=Animalia
 
 ## See Also
 For working with metadata for _individual_ taxa or observations, see the related tool
-[`inat-image-tagger`](https://github.com/JWCook/inat-image-tagger).
+[`naturtag`](https://github.com/JWCook/naturtag).
 
 ## TODO
-If this actually turns out to be useful, there is lots of room for building on top of this basic
+If this actually turns out to be useful, there is a lot of room for building on top of this basic
 PoC, for example:
 * Conveniences to make it easier to import generated keywords into popular photo/metadata editing
   applications that support hierarchical keywords (XnView MP, FastPictureiewer, Lightroom, Daminion, etc.)
